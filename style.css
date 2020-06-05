@@ -589,10 +589,12 @@ footer .footer_copy .box_icon
 {
 	body{background:#D04141;}
 	menu{display: none;}
+	figure{font-size: 1.2em;}
+	.wrapper_slider{flex-direction: column;height: auto;}
 	.slider_box h1{
-		font-size: 0.5em; color: blue
+		font-size: 0.8em; height: auto;
 	}
-	.slider_box img{width: 20%;}
+	.slider_box img{width: 40%;}
 .wrapper_work{ height: auto;padding-bottom: 40px }
 .menu2{display: none}
 	.photo_gallery
